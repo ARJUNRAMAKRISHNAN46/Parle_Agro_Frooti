@@ -1,0 +1,155 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#maindiv{
+    width: 100%;
+    height: 2000px;
+}
+#divone{
+    width: 15%;
+    height: 75px;
+    background-color:rgb(0, 0, 0);
+    float: left;
+}
+#imgdiv{
+    width: 170px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-image: url(https://www.parleagro.com/dist/img/logo.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#subdiv{
+    width: 100%;
+    position: fixed;
+}
+#img1{
+    padding: 20px;
+}
+#divtwo{
+    width: 20%;
+    height: 75px;
+    background-color:rgb(0, 0, 0);
+    float: left;
+}
+#divthree{
+    width: 65%;
+    height: 75px;
+    background-color:rgb(0, 0, 0);
+    float: left;
+}
+#divfour{
+    width: 100%;
+    height: 900px;
+    background-image: url(frooti1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+#divfive{
+    width: 50%;
+    height: 1200px;
+    background-color:rgb(240, 145, 48);
+    background-image: url("https://www.parleagro.com/uploads/images/0345263FA8DB.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: xx-large;
+    float: left;
+}
+#head1{
+    padding-top: 500px;
+}
+#divsix{
+    width: 50%;
+    height: 1200px;
+    background-color:rgb(255, 255, 255);
+    float: left;
+}
+#parah{
+    padding-top: 135px;
+    padding-left: 120px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#divseven{
+    width: 100%;
+    height: 850px;
+    background-image: url(frooti2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+#innerone{
+    width: 483px;
+    height: 270px;
+    float: left;
+}
+#innertwo{
+    width: 483px;
+    height: 270px;
+    float: left;
+}
+#innerthree{
+    width: 484px;
+    height: 270px;
+    float: left;
+}
+#parah1{
+    padding-left: 80px;
+    padding-top: 40px;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#parah2{
+    padding-left: 80px;
+    padding-top: 40px;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#parah3{
+    padding-left: 80px;
+    font-size: small;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#parah4{
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#parah5{
+    padding-left: 100px;
+    font-size: small;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+select{
+    padding: 25px;
+    color: #fff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:transparent;
+    border-color: #000;
+    font-size: medium;
+}
+a{
+    color: #fff;
+    background-color:transparent;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+}
+#newnav1{
+    padding-left: 25px;
+}
+a:hover{
+    color: red;
+}
+select:hover{
+    color: red;
+}
